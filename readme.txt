@@ -7,3 +7,9 @@ Data Anggota :
 - Muhammad Dzaki S. (2301923104)
 - Riksen Setiawan (2301850866)
 - William Smith A. (2301900675)
+
+Code Reference :
+- Android Developer Documentation
+- StackOverFlow
+- Medium
+- CodePolitan
